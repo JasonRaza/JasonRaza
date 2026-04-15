@@ -9,26 +9,53 @@ I'm drawn to the intersection of **software engineering and quantitative finance
 ## 🛠 Stack
 
 **Languages**
-`Java` `JavaScript / TypeScript` `Python` `SQL / PL-SQL` `C` `Assembly (PEP/8)`
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Frontend**
-`Next.js` `React` `HTML/CSS`
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Backend & Data**
-`Supabase` `PostgreSQL` `Oracle DB` `Node.js`
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
 
 **Tools**
-`Git` `Docker` `n8n` `Android (Java)`
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ---
 
 ## 🚀 Recent Projects
 
-**[PairUp](https://github.com/ton-username/pairUp)** — *Hackathon · 24h*
+**[PairUp](https://github.com/YOUR_GITHUB_USERNAME/pairUp)** — *Hackathon · 24h*
 Tinder-style study partner matching app. Built the backend with Next.js, Supabase, and Gemini AI.
 
-**[DoTo](https://github.com/ton-username/doto)** — *TCH099 Team Project*
+**[DoTo](https://github.com/YOUR_GITHUB_USERNAME/doto)** — *TCH099 Team Project*
 Gamified task manager with a virtual creature that evolves as you complete tasks. Next.js frontend + Android app.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JasonRaza&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonRaza&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
@@ -42,7 +69,8 @@ I care about clean architecture, thoughtful UX, and working on problems with rea
 
 ## 📬 Contact
 
-[LinkedIn](https://linkedin.com/in/jason-razanaparany-34ba84186) · [Email](jason_raza@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-razanaparany-34ba84186)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jason_raza@hotmail.com)
 
 ---
 

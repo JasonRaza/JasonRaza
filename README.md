@@ -42,7 +42,7 @@ I'm drawn to the intersection of **software engineering and quantitative finance
 
 ## 🚀 Recent Projects
 
-**[PairUp](https://github.com/YOUR_GITHUB_USERNAME/pairUp)** — *Hackathon · 24h* &nbsp; 🏆 **Best Backboard.io Implementation — JACHacks 2025**
+**[PairUp](https://github.com/YOUR_GITHUB_USERNAME/pairUp)** — *Hackathon · 24h* &nbsp; 🏆 **Best Backboard.io Implementation — JACHacks 2026**
 
 A Tinder-style study partner matching app built in 24 hours at JACHacks. Students swipe through profiles, match based on shared courses and study habits, and get AI-powered compatibility insights. I led the backend — data modeling, matching logic, and Gemini AI integration — on a team of 4.
 

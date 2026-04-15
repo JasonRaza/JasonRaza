@@ -42,11 +42,27 @@ I'm drawn to the intersection of **software engineering and quantitative finance
 
 ## 🚀 Recent Projects
 
-**[PairUp](https://github.com/YOUR_GITHUB_USERNAME/pairUp)** — *Hackathon · 24h*
-Tinder-style study partner matching app. Built the backend with Next.js, Supabase, and Gemini AI.
+**[PairUp](https://github.com/YOUR_GITHUB_USERNAME/pairUp)** — *Hackathon · 24h* &nbsp; 🏆 **Best Backboard.io Implementation — JACHacks 2025**
+
+A Tinder-style study partner matching app built in 24 hours at JACHacks. Students swipe through profiles, match based on shared courses and study habits, and get AI-powered compatibility insights. I led the backend — data modeling, matching logic, and Gemini AI integration — on a team of 4.
+
+`Next.js` `Supabase` `Gemini AI`
+
+---
 
 **[DoTo](https://github.com/YOUR_GITHUB_USERNAME/doto)** — *TCH099 Team Project*
-Gamified task manager with a virtual creature that evolves as you complete tasks. Next.js frontend + Android app.
+
+A gamified task management app where a virtual creature evolves as you complete tasks and earn XP. Built to make productivity less painful for students. Features a calendar view, drag-and-drop tasks, badges, streaks, and an Android companion app.
+
+`Next.js` `React` `Android (Java)`
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm currently looking for **internship or junior opportunities** in software engineering — with a particular interest in **fintech, quantitative systems, or data-intensive products** in Montréal.
+
+I care about clean architecture, thoughtful UX, and working on problems with real-world impact.
 
 ---
 
@@ -56,14 +72,6 @@ Gamified task manager with a virtual creature that evolves as you complete tasks
   <img src="https://github-readme-stats.vercel.app/api?username=JasonRaza&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonRaza&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
-
----
-
-## 🎯 What I'm Looking For
-
-I'm currently looking for **internship or junior opportunities** in software engineering — with a particular interest in **fintech, quantitative systems, or data-intensive products** in Montréal.
-
-I care about clean architecture, thoughtful UX, and working on problems with real-world impact.
 
 ---
 

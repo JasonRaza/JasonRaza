@@ -4,6 +4,8 @@ Software engineering student at **École de technologie supérieure (ÉTS)** in 
 
 I'm drawn to the intersection of **software engineering and quantitative finance**, and I enjoy working on side projects that solve real problems.
 
+🌐 **Portfolio:** [jasonraza.vercel.app](https://jasonraza.vercel.app) — try live demos of my projects right in the browser.
+
 ---
 
 ## 🛠 Stack
@@ -78,6 +80,7 @@ I care about clean architecture, thoughtful UX, and working on problems with rea
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-razanaparany-34ba84186)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jasonraza.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://jasonraza.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jason_raza@hotmail.com)
 
 ---

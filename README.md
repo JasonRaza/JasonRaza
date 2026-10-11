@@ -56,7 +56,7 @@ Shipped like production software: 121 tests (~95% coverage), strict typing, and 
 
 ---
 
-**[PairUp](https://github.com/JasonRaza/PairUp)** — *Hackathon · 24h* &nbsp; 🏆 **Best Backboard.io Implementation — JACHacks 2026** &nbsp; · &nbsp; [Live app](https://jasonraza.vercel.app/pairup)
+**[PairUp](https://github.com/JasonRaza/PairUp)** — *Hackathon · 24h* &nbsp; 🏆 **Best Use of Backboard.io — JACHacks 2026** &nbsp; · &nbsp; [Live app](https://jasonraza.vercel.app/pairup)
 
 A Tinder-style study partner matching app built in 24 hours at JACHacks. Students swipe through profiles, match based on shared courses and study habits, and get AI-powered compatibility insights. I led the backend — data modeling, matching logic, and Gemini AI integration — on a team of 4.
 

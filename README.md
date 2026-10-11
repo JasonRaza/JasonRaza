@@ -37,6 +37,8 @@ I'm drawn to the intersection of **software engineering and quantitative finance
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
@@ -44,19 +46,23 @@ I'm drawn to the intersection of **software engineering and quantitative finance
 
 ## 🚀 Recent Projects
 
-**[PairUp](https://github.com/JasonRaza/PairUp)** — *Hackathon · 24h* &nbsp; 🏆 **Best Backboard.io Implementation — JACHacks 2026**
+**[Quant](https://github.com/JasonRaza/Quant)** — *Personal project* &nbsp; · &nbsp; [Live app](https://jasonraza.vercel.app/quant) · [API docs](https://jasonraza.vercel.app/quant/api)
+
+A quantitative finance research stack I built from scratch to learn the field: market data pipeline, backtesting engine, factor research, portfolio optimization, machine learning with purged walk-forward validation, and a paper-trading REST API. A Streamlit app (13-chapter tutorial + research lab) lets anyone run the experiments on real market data.
+
+Shipped like production software: 121 tests (~95% coverage), strict typing, and a CI/CD pipeline where every push is tested, containerized, scanned and deployed to **Azure Container Apps** (staging → smoke tests → production), with infrastructure as code and no stored secrets (OIDC).
+
+`Python` `pandas` `scikit-learn` `FastAPI` `Streamlit` `Docker` `Azure` `Bicep` `GitHub Actions`
+
+---
+
+**[PairUp](https://github.com/JasonRaza/PairUp)** — *Hackathon · 24h* &nbsp; 🏆 **Best Backboard.io Implementation — JACHacks 2026** &nbsp; · &nbsp; [Live app](https://jasonraza.vercel.app/pairup)
 
 A Tinder-style study partner matching app built in 24 hours at JACHacks. Students swipe through profiles, match based on shared courses and study habits, and get AI-powered compatibility insights. I led the backend — data modeling, matching logic, and Gemini AI integration — on a team of 4.
 
 `Next.js` `Supabase` `Gemini AI`
 
----
-
-**[Odot](https://github.com/ongxrxx/TCH099--Odot)** — *TCH099 Team Project*
-
-A gamified task management app where a virtual creature evolves as you complete tasks and earn XP. Built to make productivity less painful for students. Features a calendar view, drag-and-drop tasks, badges, streaks, and an Android companion app.
-
-`Next.js` `React` `Android (Java)`
+👉 Try both interactively on my portfolio: **[jasonraza.vercel.app](https://jasonraza.vercel.app)**
 
 ---
 
